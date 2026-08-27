@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:1B0F3B,100:FF2E88&height=200&section=header&text=RAJSHEKHAR%20DAS&fontSize=52&fontColor=FFE45E&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Systems%2C%20Backends%20and%20Applied%20AI&descSize=16&descAlignY=62" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B0F3B,100:FF2E88&height=200&section=header&text=RAJSHEKHAR%20DAS&fontSize=52&fontColor=FFE45E&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Systems%2C%20Backends%20and%20Applied%20AI&descSize=16&descAlignY=62" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=FFE45E&center=true&vCenter=true&width=820&height=80&lines=SOFTWARE+ENGINEER+%2F%2F+SYSTEMS+%26+APPLIED+AI;SWE+INTERN+%40+HSBC+%C2%B7+CSE+%40+NIT+DURGAPUR;REAL-TIME+BACKENDS+%C2%B7+LOW-LEVEL+C+%C2%B7+LLM+SYSTEMS;BUILDING+TOWARD+GENERATIVE+AI+%26+DEEP+LEARNING" alt="Software engineer, systems and applied AI" />
 
@@ -145,7 +145,6 @@ interesting problems are not the prompts, they are everything around them.
 
 <img width="88%" src="https://raw.githubusercontent.com/Rajshekhar25/Rajshekhar25/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile details" />
 
-<img width="44%" src="https://raw.githubusercontent.com/Rajshekhar25/Rajshekhar25/main/profile-summary-card-output/2077/3-stats.svg" alt="Contribution stats" />
 <img width="44%" src="https://raw.githubusercontent.com/Rajshekhar25/Rajshekhar25/main/profile-summary-card-output/2077/4-productive-time.svg" alt="Productive time" />
 
 <img width="44%" src="https://raw.githubusercontent.com/Rajshekhar25/Rajshekhar25/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repositories per language" />
@@ -157,6 +156,6 @@ interesting problems are not the prompts, they are everything around them.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF2E88,100:1B0F3B&height=120&section=footer&text=Let%27s%20build%20something%20that%20holds%20up%20under%20load.&fontSize=19&fontColor=FFE45E&fontAlignY=76" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E88,100:1B0F3B&height=120&section=footer&text=Let%27s%20build%20something%20that%20holds%20up%20under%20load.&fontSize=19&fontColor=FFE45E&fontAlignY=76" />
 
 </div>
