@@ -102,12 +102,8 @@ interesting problems are not the prompts, they are everything around them.
 
 ## &nbsp;`//`&nbsp; COMPETITIVE PROGRAMMING
 
-Data structures and algorithms as a standing habit, not exam preparation.
-
 - **Codeforces [@0xRajshekhar](https://codeforces.com/profile/0xRajshekhar)** · **LeetCode [@0xRajshekhar](https://leetcode.com/u/0xRajshekhar/)** · **CodeChef [@rajshekhar25](https://www.codechef.com/users/rajshekhar25)**
 - I maintain [**CP-resources**](https://github.com/Rajshekhar25/CP-resources), my own snippet and template library for contests.
-- I curate [**leetcode-company-wise-problems**](https://github.com/Rajshekhar25/leetcode-company-wise-problems), company-tagged problem sets for interview preparation.
-- Strongest in graphs, dynamic programming and greedy construction; C++ is my contest language.
 
 <div align="center">
 
@@ -147,12 +143,13 @@ Data structures and algorithms as a standing habit, not exam preparation.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajshekhar25&show_icons=true&hide=stars&include_all_commits=true&count_private=true&hide_border=true&bg_color=1B0F3B&title_color=FFE45E&icon_color=FF2E88&text_color=C9C2F0" />
-<img height="165" src="https://streak-stats.demolab.com?user=Rajshekhar25&hide_border=true&background=1B0F3B&ring=FF2E88&fire=FFE45E&currStreakLabel=FFE45E&sideLabels=C9C2F0&dates=8A7FC0&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="88%" src="https://raw.githubusercontent.com/Rajshekhar25/Rajshekhar25/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile details" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshekhar25&bg_color=1B0F3B&color=FFE45E&line=FF2E88&point=FFE45E&area=true&hide_border=true" />
+<img width="44%" src="https://raw.githubusercontent.com/Rajshekhar25/Rajshekhar25/main/profile-summary-card-output/2077/3-stats.svg" alt="Contribution stats" />
+<img width="44%" src="https://raw.githubusercontent.com/Rajshekhar25/Rajshekhar25/main/profile-summary-card-output/2077/4-productive-time.svg" alt="Productive time" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshekhar25&layout=compact&langs_count=8&hide_border=true&bg_color=1B0F3B&title_color=FFE45E&text_color=C9C2F0" />
+<img width="44%" src="https://raw.githubusercontent.com/Rajshekhar25/Rajshekhar25/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repositories per language" />
+<img width="44%" src="https://raw.githubusercontent.com/Rajshekhar25/Rajshekhar25/main/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most committed language" />
 
 <img src="https://komarev.com/ghpvc/?username=Rajshekhar25&color=FF2E88&style=for-the-badge&label=PROFILE+VIEWS" />
 
