@@ -20,7 +20,7 @@
 |  ENGINEER    Rajshekhar Das                                      |
 |  EDUCATION   B.Tech CSE, NIT Durgapur                            |
 |  EXPERIENCE  Software Engineering Intern, HSBC                   |
-|  DOMAIN      Backend systems . real-time . applied AI            |
+|  DOMAIN      Backend systems . compliance tooling . applied AI   |
 |  LANGUAGES   JavaScript/TypeScript, Python, C, C++               |
 |  EXPLORING   Generative AI, deep learning, distributed systems   |
 |  STATUS      Open to SDE internships and new grad roles          |
@@ -29,9 +29,27 @@
 
 ## &nbsp;`//`&nbsp; EXPERIENCE
 
+### Software Engineering Intern &nbsp;·&nbsp; HSBC
+
+Change-management compliance tooling, in Python — turning a written governance
+catalogue into something a machine can decide on, and defend.
+
+- Built a **compliance engine** that evaluates enterprise Change Requests against a
+  data-driven SDLC and deployment governance control catalogue, producing a
+  **deterministic, auditable approve / not-approve verdict with per-control reasoning**.
+- Built a **live evidence-probing service** over the Jira, GitHub and Confluence REST APIs
+  that authenticates and validates the state of every artefact linked as Change Request
+  evidence, rather than trusting what the ticket claims.
+- Designed a **three-state evaluation model** — passed / failed / manual — that promotes
+  controls it cannot verify to an external IT governance system instead of guessing, with
+  PAT-based Bearer authentication wired across all three APIs.
+- Engineered a **fully offline pytest suite** with mocked HTTP clients and JSON fixtures, so
+  the whole engine tests deterministically with no credentials and no network.
+
+### Elsewhere
+
 | Role | Where | What I worked on |
 |:--|:--|:--|
-| **Software Engineering Intern** <br><sub>`ADD DATES`</sub> | **HSBC** | Engineering work inside a large regulated banking environment — production codebases, code review, and the operational discipline that comes with software real money moves through. |
 | **Contributor** | **Brabble.ai** | Built [Brabble-Bites](https://github.com/Rajshekhar25/Brabble-Bites), the email digest feature — scheduled aggregation, Handlebars templating and delivery. |
 | **Backend Developer** | **NITMUN XIII** | Designed and shipped the [registration backend](https://github.com/Rajshekhar25/NITMUN_XIII_Backend) and [conference site](https://github.com/Rajshekhar25/NITMUN-XIII) used by the delegate intake for NIT Durgapur's Model UN. |
 
