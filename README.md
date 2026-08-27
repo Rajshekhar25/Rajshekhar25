@@ -13,7 +13,8 @@
 
 </div>
 
-```
+<div align="center">
+<pre>
 +==================================================================+
 |  SYSTEM PROFILE                                    NIT DURGAPUR  |
 +==================================================================+
@@ -25,7 +26,8 @@
 |  EXPLORING   Generative AI, deep learning, distributed systems   |
 |  STATUS      Open to SDE internships and new grad roles          |
 +==================================================================+
-```
+</pre>
+</div>
 
 ## &nbsp;`//`&nbsp; EXPERIENCE
 
@@ -45,6 +47,22 @@ catalogue into something a machine can decide on, and defend.
   PAT-based Bearer authentication wired across all three APIs.
 - Engineered a **fully offline pytest suite** with mocked HTTP clients and JSON fixtures, so
   the whole engine tests deterministically with no credentials and no network.
+
+<div align="center">
+<pre>
++==================================================================+
+|  ENGINEERING FOCUS                                SELF-ASSESSED  |
++==================================================================+
+|  BACKEND / APIs           [###################---]  88%          |
+|  REAL-TIME / CONCURRENCY  [##################----]  82%          |
+|  DATABASES / MODELING     [#################-----]  78%          |
+|  SYSTEMS PROGRAMMING      [################------]  72%          |
+|  APPLIED GENAI / LLMs     [#################-----]  76%          |
+|  DEEP LEARNING            [##############--------]  62%          |
+|  DSA / PROBLEM SOLVING    [##################----]  80%          |
++==================================================================+
+</pre>
+</div>
 
 ## &nbsp;`//`&nbsp; SELECTED SYSTEMS
 
