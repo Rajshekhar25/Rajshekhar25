@@ -39,3 +39,19 @@
 </a>
 
 </div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py,react,nextjs,nodejs,express,tailwind,mongodb,mysql,postgres,prisma,git,docker,postman,bash&theme=dark" alt="Skills" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LangChain-0A101F?style=for-the-badge&logo=langchain&logoColor=10B981&labelColor=0A101F" alt="LangChain" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-0A101F?style=for-the-badge&logo=langgraph&logoColor=A78BFA&labelColor=0A101F" alt="LangGraph" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-0A101F?style=for-the-badge&logo=streamlit&logoColor=22D3EE&labelColor=0A101F" alt="Streamlit" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Pytest-0A101F?style=for-the-badge&logo=pytest&logoColor=10B981&labelColor=0A101F" alt="Pytest" />
+
+</div>
