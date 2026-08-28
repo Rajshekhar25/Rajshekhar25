@@ -1,1 +1,12 @@
 drafts/
+# raw/recognizable photos and intermediate previews stay local only —
+# the committed source-of-truth is the abstracted .npy dot/mask data,
+# from which the SVGs (and these previews) can be regenerated
+assets/me.jpeg
+assets/me-removebg-preview.png
+assets/_wide_crop_300x340.png
+assets/portrait_preview_dark.png
+assets/portrait_preview_light.png
+
+# regeneratable pipeline intermediates -- rerun scripts/build_*.py to recreate
+scripts/_build/
