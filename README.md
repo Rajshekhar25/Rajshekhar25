@@ -20,6 +20,8 @@
 </picture>
 </div>
 
+<br>
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rajshekhar25/">
@@ -39,6 +41,8 @@
 </a>
 
 </div>
+
+<br>
 
 <div align="center">
 
