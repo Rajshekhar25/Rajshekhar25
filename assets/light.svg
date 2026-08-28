@@ -520,41 +520,35 @@
 <text x="478.0" y="241.0" font-size="14" fill="#0E7490" textLength="68.4" lengthAdjust="spacingAndGlyphs">Education</text>
 <line x1="552.4" y1="237.0" x2="961.6" y2="237.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
 <text x="1150.0" y="241.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="182.4" lengthAdjust="spacingAndGlyphs">B.Tech CSE, NIT Durgapur</text>
-<text x="478.0" y="264.0" font-size="14" fill="#0E7490" textLength="45.6" lengthAdjust="spacingAndGlyphs">Status</text>
-<line x1="529.6" y1="260.0" x2="969.2" y2="260.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
-<text x="1150.0" y="264.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="174.8" lengthAdjust="spacingAndGlyphs">Open to SDE Internships</text>
-<text x="478.0" y="287.0" font-size="14" fill="#0E7490" textLength="68.4" lengthAdjust="spacingAndGlyphs">ToolChain</text>
-<line x1="552.4" y1="283.0" x2="923.6" y2="283.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
-<text x="1150.0" y="287.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="220.4" lengthAdjust="spacingAndGlyphs">VS Code, Git, Docker, Postman</text>
-<text x="478.0" y="310.0" font-size="14" fill="#0E7490" textLength="68.4" lengthAdjust="spacingAndGlyphs">Core.Lang</text>
-<line x1="552.4" y1="306.0" x2="923.6" y2="306.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
-<text x="1150.0" y="310.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="220.4" lengthAdjust="spacingAndGlyphs">JavaScript/TS, Python, C, C++</text>
-<text x="478.0" y="333.0" font-size="14" fill="#0E7490" textLength="98.8" lengthAdjust="spacingAndGlyphs">Core.Frontend</text>
-<line x1="582.8" y1="329.0" x2="961.6" y2="329.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
-<text x="1150.0" y="333.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="182.4" lengthAdjust="spacingAndGlyphs">React, Next.js, Tailwind</text>
-<text x="478.0" y="356.0" font-size="14" fill="#0E7490" textLength="91.2" lengthAdjust="spacingAndGlyphs">Core.Backend</text>
-<line x1="575.2" y1="352.0" x2="938.8" y2="352.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
-<text x="1150.0" y="356.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="205.2" lengthAdjust="spacingAndGlyphs">Node.js, Express, Socket.io</text>
-<text x="478.0" y="379.0" font-size="14" fill="#0E7490" textLength="98.8" lengthAdjust="spacingAndGlyphs">Core.Database</text>
-<line x1="582.8" y1="375.0" x2="999.6" y2="375.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
-<text x="1150.0" y="379.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="144.4" lengthAdjust="spacingAndGlyphs">MongoDB, PostgreSQL</text>
-<text x="478.0" y="402.0" font-size="14" fill="#0E7490" textLength="76.0" lengthAdjust="spacingAndGlyphs">Core.Infra</text>
-<line x1="560.0" y1="398.0" x2="946.4" y2="398.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
-<text x="1150.0" y="402.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="197.6" lengthAdjust="spacingAndGlyphs">Docker, Vercel, GH Actions</text>
-<text x="478.0" y="425.0" font-size="14" fill="#0E7490" textLength="68.4" lengthAdjust="spacingAndGlyphs">Grid.Mail</text>
-<line x1="552.4" y1="421.0" x2="954.0" y2="421.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
-<text x="1150.0" y="425.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="190.0" lengthAdjust="spacingAndGlyphs">rajshekhardas85@gmail.com</text>
-<text x="478.0" y="448.0" font-size="14" fill="#0E7490" textLength="98.8" lengthAdjust="spacingAndGlyphs">Grid.LinkedIn</text>
-<line x1="582.8" y1="444.0" x2="931.2" y2="444.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
-<text x="1150.0" y="448.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="212.8" lengthAdjust="spacingAndGlyphs">linkedin.com/in/rajshekhar25</text>
-<text x="478.0" y="471.0" font-size="14" fill="#0E7490" textLength="83.6" lengthAdjust="spacingAndGlyphs">Grid.GitHub</text>
-<line x1="567.6" y1="467.0" x2="969.2" y2="467.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
-<text x="1150.0" y="471.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="174.8" lengthAdjust="spacingAndGlyphs">github.com/Rajshekhar25</text>
-<text x="478.0" y="494.0" font-size="14" fill="#0E7490" textLength="98.8" lengthAdjust="spacingAndGlyphs">Grid.LeetCode</text>
-<line x1="582.8" y1="490.0" x2="938.8" y2="490.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
-<text x="1150.0" y="494.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="205.2" lengthAdjust="spacingAndGlyphs">leetcode.com/u/0xRajshekhar</text>
-<text x="478.0" y="517.0" font-size="14" fill="#0E7490" textLength="114.0" lengthAdjust="spacingAndGlyphs">Grid.Codeforces</text>
-<line x1="598.0" y1="513.0" x2="878.0" y2="513.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
-<text x="1150.0" y="517.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="266.0" lengthAdjust="spacingAndGlyphs">codeforces.com/profile/0xRajshekhar</text>
+<text x="478.0" y="264.0" font-size="14" fill="#0E7490" textLength="68.4" lengthAdjust="spacingAndGlyphs">Core.Lang</text>
+<line x1="552.4" y1="260.0" x2="855.2" y2="260.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
+<text x="1150.0" y="264.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="288.8" lengthAdjust="spacingAndGlyphs">C++, C, JavaScript, TypeScript, Python</text>
+<text x="478.0" y="287.0" font-size="14" fill="#0E7490" textLength="60.8" lengthAdjust="spacingAndGlyphs">Core.Web</text>
+<line x1="544.8" y1="283.0" x2="748.8" y2="283.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
+<text x="1150.0" y="287.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="395.2" lengthAdjust="spacingAndGlyphs">React.js, Next.js, Node.js, Express.js, Tailwind CSS</text>
+<text x="478.0" y="310.0" font-size="14" fill="#0E7490" textLength="68.4" lengthAdjust="spacingAndGlyphs">Core.Data</text>
+<line x1="552.4" y1="306.0" x2="779.2" y2="306.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
+<text x="1150.0" y="310.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="364.8" lengthAdjust="spacingAndGlyphs">MongoDB, MySQL, PostgreSQL, Prisma, RESTful APIs</text>
+<text x="478.0" y="333.0" font-size="14" fill="#0E7490" textLength="76.0" lengthAdjust="spacingAndGlyphs">Core.GenAI</text>
+<line x1="560.0" y1="329.0" x2="817.2" y2="329.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
+<text x="1150.0" y="333.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="326.8" lengthAdjust="spacingAndGlyphs">RAG, LangChain, LangGraph, Vector Databases</text>
+<text x="478.0" y="356.0" font-size="14" fill="#0E7490" textLength="76.0" lengthAdjust="spacingAndGlyphs">Core.Tools</text>
+<line x1="560.0" y1="352.0" x2="771.6" y2="352.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
+<text x="1150.0" y="356.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="372.4" lengthAdjust="spacingAndGlyphs">Git, Docker, Postman, Streamlit, Pytest, Git Bash</text>
+<text x="478.0" y="379.0" font-size="14" fill="#0E7490" textLength="68.4" lengthAdjust="spacingAndGlyphs">Grid.Mail</text>
+<line x1="552.4" y1="375.0" x2="954.0" y2="375.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
+<text x="1150.0" y="379.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="190.0" lengthAdjust="spacingAndGlyphs">rajshekhardas85@gmail.com</text>
+<text x="478.0" y="402.0" font-size="14" fill="#0E7490" textLength="98.8" lengthAdjust="spacingAndGlyphs">Grid.LinkedIn</text>
+<line x1="582.8" y1="398.0" x2="931.2" y2="398.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
+<text x="1150.0" y="402.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="212.8" lengthAdjust="spacingAndGlyphs">linkedin.com/in/rajshekhar25</text>
+<text x="478.0" y="425.0" font-size="14" fill="#0E7490" textLength="83.6" lengthAdjust="spacingAndGlyphs">Grid.GitHub</text>
+<line x1="567.6" y1="421.0" x2="969.2" y2="421.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
+<text x="1150.0" y="425.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="174.8" lengthAdjust="spacingAndGlyphs">github.com/Rajshekhar25</text>
+<text x="478.0" y="448.0" font-size="14" fill="#0E7490" textLength="98.8" lengthAdjust="spacingAndGlyphs">Grid.LeetCode</text>
+<line x1="582.8" y1="444.0" x2="938.8" y2="444.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
+<text x="1150.0" y="448.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="205.2" lengthAdjust="spacingAndGlyphs">leetcode.com/u/0xRajshekhar</text>
+<text x="478.0" y="471.0" font-size="14" fill="#0E7490" textLength="114.0" lengthAdjust="spacingAndGlyphs">Grid.Codeforces</text>
+<line x1="598.0" y1="467.0" x2="878.0" y2="467.0" stroke="#AFD8E2" stroke-width="1.4" stroke-dasharray="1.6,3.4" stroke-linecap="round"/>
+<text x="1150.0" y="471.0" font-size="14" fill="#0B1220" text-anchor="end" textLength="266.0" lengthAdjust="spacingAndGlyphs">codeforces.com/profile/0xRajshekhar</text>
 
 </svg>
